@@ -23,19 +23,19 @@ Database: MongoDB, MySQL
 Tools & Platforms: Git, GitHub, JIRA, Netlify, Render, Agile Scrum
 
 🚀 Projects
-🔹 Vehicle Rental App
+🔹 Vehicle Rental App - https://vehiclerentzone.netlify.app/
 
 A MERN-based vehicle booking platform with search, availability, and review integration.
 
-🔹 MovieZone
+🔹 MovieZone - https://moivezone.netlify.app/
 
 Movie search app using OMDB API with React.js and Tailwind CSS.
 
-🔹 Kanban Board App
+🔹 Kanban Board App - https://app-kanbanboard.netlify.app/
 
 Task management with drag-and-drop features using React.js + Redux.
 
-🔹 Invoice Manager
+🔹 Invoice Manager - https://app-invoicemacker.netlify.app/
 
 Invoice creation & billing management app built with React.js, Node.js, and MongoDB.
 
@@ -46,7 +46,7 @@ Invoice creation & billing management app built with React.js, Node.js, and Mong
 
 📫 Connect with Me
 
-💼 LinkedIn
+💼 LinkedIn - linkedin.com/in/ashwathaman-r
 
 🌐 Portfolio / Projects
 
