@@ -1,16 +1,55 @@
-## Hi there 👋
+Hi, I'm Ashwathaman 👋
 
-<!--
-**Ashwat200OK/Ashwat200OK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Certified Full Stack Developer (MERN) from GUVI with hands-on experience in building responsive web applications and REST APIs.
+💡 With 3 years of prior experience as a Software Test Engineer, I bring strong expertise in performance, usability, and reliability testing—now channeling that into creating scalable and user-friendly full-stack solutions.
 
-Here are some ideas to get you started:
+🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Based in Chennai, India
+
+🔭 Currently aiming for a Full Stack Developer role
+
+🧪 3+ years of experience in Software Testing
+
+🎓 B.E. in Mechanical Engineering (2021)
+
+🛠️ Certified in Full Stack Web Development (MERN) from GUVI
+
+⚒️ Tech Stack
+
+Frontend: React.js, JavaScript (ES6+), Redux, Tailwind CSS, Bootstrap, MUI, HTML5, CSS3
+Backend: Node.js, Express.js, Java, REST APIs
+Database: MongoDB, MySQL
+Tools & Platforms: Git, GitHub, JIRA, Netlify, Render, Agile Scrum
+
+🚀 Projects
+🔹 Vehicle Rental App
+
+A MERN-based vehicle booking platform with search, availability, and review integration.
+
+🔹 MovieZone
+
+Movie search app using OMDB API with React.js and Tailwind CSS.
+
+🔹 Kanban Board App
+
+Task management with drag-and-drop features using React.js + Redux.
+
+🔹 Invoice Manager
+
+Invoice creation & billing management app built with React.js, Node.js, and MongoDB.
+
+📈 My GitHub Stats
+
+
+
+
+📫 Connect with Me
+
+💼 LinkedIn
+
+🌐 Portfolio / Projects
+
+📧 ashwathaman.r6@gmail.com
+
+✨ Always eager to learn, build, and contribute to innovative projects.
